@@ -1,0 +1,9 @@
+URL=https://dev2.fideliseducation.com/
+password=12341234
+adminId=smoke_admin
+studentId=smoke_student1
+coachId=smoke_coach1
+authorId=smoke_author
+publisherId=smoke_student17
+moderatorId=smoke_moderator1
+browserName=Chrome
